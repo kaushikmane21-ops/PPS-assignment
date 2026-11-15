@@ -11,9 +11,9 @@ Welcome to my repository for the **Programming Through Problem Solving (PPS)** c
 - **GitHub:** https://github.com/kaushikmane21-ops/PPS-assignment.git
 
 ## 📁 Repository Structure
-- `assignment1_a.c` - Syntax error fix (missing `;` and `&`)
-- `assignment1_b.c` - Logical error fix (`=` vs `>=`)
-- `assignment1_c.c` - Infinite loop fix (`count++` → `count--`)
+- `assignment1a_c.c` - Syntax error fix (missing `;` and `&`)
+- `assignment1b_c.c` - Logical error fix (`=` vs `>=`)
+- `assignment1c_c.c` - Infinite loop fix (`count++` → `count--`)
 - `assignment2.c` - Basic File I/O (Write & Read)
 - `assignment3.c` - Multiple Student Records Handling via Loops
 - `assignment5.c` - AI-commented version of Assignment 3
